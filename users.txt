@@ -1,0 +1,4 @@
+Admin = users\admin\ss.ini
+Guest = users\guest\ss.ini
+johns = users\johns\ss.ini
+Johnson = users\johnson\ss.ini
